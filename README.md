@@ -37,9 +37,9 @@ Language and Tools:
 
 
 [twitter]: https://twitter.com/SarangaSenarath
-[facebook]: https://www.facebook.com/nipun.senarath.186/
+[facebook]: https://www.facebook.com/hirosha.samarasekara.92/
 [instagram]: https://www.instagram.com/nippa_00/
-[linkedin]: https://www.linkedin.com/in/nipun-senarath-2ab8611a7/
+[linkedin]: https://www.linkedin.com/in/hirosha-samarasekara-b5a19b213/
 
 [vscode]: https://code.visualstudio.com/
 [Github]: https://docs.github.com/en
